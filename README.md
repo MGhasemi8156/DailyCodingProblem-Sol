@@ -1,8 +1,8 @@
 # DailyCodingProblem-Sol
 My code solutions for Daily Coding Problems sent to me from dailycodingproblem.com
 
-#Problems
-##Problem 1
+# Problems
+## Problem 1
 This problem was recently asked by Google.
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
