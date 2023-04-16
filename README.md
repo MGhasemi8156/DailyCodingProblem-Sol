@@ -80,7 +80,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 
 You can assume that the messages are decodable. For example, '001' is not allowed.
 
-## Problem 8
+## Problem 8 (solved)
 Good morning! Here's your coding interview problem for today.
 
 This problem was asked by Google.
@@ -95,7 +95,7 @@ For example, the following tree has 5 unival subtrees:
   / \
  1   0
     / \
-   1   0
+   1   0    
   / \
  1   1
 ```
