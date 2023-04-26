@@ -162,7 +162,7 @@ This problem was asked by Facebook.
 
 Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
 
-## Problem 16
+## Problem 16 (solved)
 This problem was asked by Twitter.
 
 You run an e-commerce website and want to record the last `N order` ids in a log. Implement a data structure to accomplish this, with the following API:
